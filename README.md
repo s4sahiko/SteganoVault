@@ -254,25 +254,7 @@ Built with:
 
 ---
 
-## 📞 Support
-
-For issues or questions:
-1. Check the walkthrough documentation
-2. Review the technical implementation
-3. Test with sample images
-
----
-
-## 🔮 Roadmap
-
-- [ ] Web Worker for faster password cracking
-- [ ] Support for more image formats
-- [ ] Advanced steganalysis tools
-- [ ] Mobile app version
-- [ ] Command-line interface
-
----
-
 **Built with ❤️ for cybersecurity professionals and privacy enthusiasts**
 
 *SteganoVault - Your vault for hidden secrets*
+
