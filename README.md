@@ -225,25 +225,6 @@ SteganoVault/
 
 ---
 
-## 🤝 Contributing
-
-This is a standalone project, but suggestions are welcome!
-
-### Ideas for Enhancement
-- Audio/video steganography
-- Multiple encoding methods (DCT, spread spectrum)
-- Steganalysis tools
-- Batch processing
-- PDF report export
-
----
-
-## 📄 License
-
-MIT License - Feel free to use, modify, and distribute.
-
----
-
 ## 🙏 Acknowledgments
 
 Built with:
@@ -257,4 +238,5 @@ Built with:
 **Built with ❤️ for cybersecurity professionals and privacy enthusiasts**
 
 *SteganoVault - Your vault for hidden secrets*
+
 
