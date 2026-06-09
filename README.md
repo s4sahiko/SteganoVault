@@ -9,6 +9,12 @@ A professional-grade, browser-based application for hiding and extracting secret
 ![Privacy](https://img.shields.io/badge/privacy-100%25%20client--side-brightgreen)
 
 ---
+## Web Version
+
+*Link* :- https://sahikostagno.vercel.app
+
+
+---
 
 ## ✨ Features
 
@@ -225,25 +231,6 @@ SteganoVault/
 
 ---
 
-## 🤝 Contributing
-
-This is a standalone project, but suggestions are welcome!
-
-### Ideas for Enhancement
-- Audio/video steganography
-- Multiple encoding methods (DCT, spread spectrum)
-- Steganalysis tools
-- Batch processing
-- PDF report export
-
----
-
-## 📄 License
-
-MIT License - Feel free to use, modify, and distribute.
-
----
-
 ## 🙏 Acknowledgments
 
 Built with:
@@ -254,25 +241,10 @@ Built with:
 
 ---
 
-## 📞 Support
-
-For issues or questions:
-1. Check the walkthrough documentation
-2. Review the technical implementation
-3. Test with sample images
-
----
-
-## 🔮 Roadmap
-
-- [ ] Web Worker for faster password cracking
-- [ ] Support for more image formats
-- [ ] Advanced steganalysis tools
-- [ ] Mobile app version
-- [ ] Command-line interface
-
----
-
 **Built with ❤️ for cybersecurity professionals and privacy enthusiasts**
 
 *SteganoVault - Your vault for hidden secrets*
+
+
+
+
